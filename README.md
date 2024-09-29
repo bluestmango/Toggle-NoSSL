@@ -1,3 +1,5 @@
+Following the shutdown of Nintendo Network, this is no longer useful and is being archived
+
 Tool to toggle Pretendo's NoSSL patch.
 Make sure the patch is in /luma/sysmodules when running for the first time
 
